@@ -26,25 +26,39 @@
 * My Requests and the Standard Ticket Configuration
     * Prime your instance with test records
 * KB0010014 Page layouts and widget configurations
+    * Roll your own landing page
+    * Customize widgets with widget options
+    * Customize widgets with widget instance configuration
 * KB0010015 Advanced page and widget configurations
     * Add a My Team Page to the /SP Portal
 * KB0010016 Style
 
 ## Part III - Tweaking, Building, and Hacking
-* Service Portal built-in development tools 
-* KB0010017 Portal style
-    * Create a dark mode /SPDark Portal
-    * Create role-aware color coding
-Scoped Applications and Delegated Development
-    * Create a scoped portal project  
+* KB0010022 Thinking about widget development
+* KB0010023 Built-in development tools
 * Basic widget development
     * Create a project landing page and widget
+* KB0010024 Widget Development Technologies
+    * Build a widget MVC proof of concept
+    * Build a widget MVC proof of concept using ng-repeat    
+    * Build a widget MVC proof of concept with a listener
+    * Build a widget MVC proof of concept with a debugging parameter 
+* KB0010017 Portal style
+    * Add a custom font to the /demo portal
+    * Build a widget MVC proof of concept using SCSS
+    * Create a dark mode /SPDark Portal
+    * Create role-aware color coding
 * The widget toolbox part 1
 * The widget toolbox part 2
-    * Create a Portal List widget
-    * Custom approvers list
+    * Create your own Simple List widget
+    * Create an approvers list
+    * Create a customer Incident list with modal popup
+    * Create an enhanced Icon Link widget
 * Advanced widget design with Angular Services
     * Create a single page portal
+
+Scoped Applications and Delegated Development
+    * Create a scoped portal project      
 * Advanced widget design with localization
 * Making your widgets supportable: error handling and debugging
     * Portal revision project: error handlinG
