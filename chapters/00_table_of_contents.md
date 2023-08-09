@@ -39,16 +39,19 @@
 * KB0010023 Built-in development tools
 * Basic widget development
     * Create a project landing page and widget
-* KB0010024 Widget Development Technologies
+* KB0010024 Widget Development Toolkit Part 1
     * Build a widget MVC proof of concept
+    * Add a Script Include
     * Build a widget MVC proof of concept using ng-repeat    
-    * Build a widget MVC proof of concept with a listener
+    * Build a widget MVC proof of concept with a Record Watch
+    * Build a widget MVC proof of concept with a JavaScript dependency 
     * Build a widget MVC proof of concept with a debugging parameter 
-* KB0010017 Portal style
+* KB0010017 Time out for Portal style
     * Add a custom font to the /demo portal
-    * Build a widget MVC proof of concept using SCSS
+    * Build a widget MVC proof of concept using SASS
     * Create a dark mode /SPDark Portal
     * Create role-aware color coding
+* KB0010026 Widget Development Toolkit Part 2
 * The widget toolbox part 1
 * The widget toolbox part 2
     * Create your own Simple List widget
