@@ -3,20 +3,21 @@
 ## [What is this book about?](ch00.md)
 
 ## Part I - Developer Orientation
-* KB0010001 This book's premise
-* KB0010002 Service Portal and the Employee Center
-* KB0010006 Kanban
-* KB0010007 SeviceNow 'Good Practices' for developers
+* KB0020001 The premise
+* KB0020002 Service Portal and the Employee Center
+* KB0020003 Kanban
+* KB0020004 SeviceNow 'Good Practices' for developers
 
-## Part II - Low-Code / No-Code Configurayion
-* KB0010009 [ServiceNow's many user interfaces](KB0010009.md)
-* KB0010010 Service Portal 'Good Practices'
-* KB00100XX Delegating roles and administration of the Portal
-    * Configure your development team for Service Portal development
-* KB0010011 Service Portal configuration and administration
-    * Build your Service Portal minimum viable product (MVP) with portal, theme, and page
-    * Use the Branding Editor to update your MVP's look and feel    
-* KB0010012 Advanced configuration part 1: Service Catalog, Search
+## Part II - Low-Code / No-Code Configuration
+* KB0020010 [ServiceNow's many user interfaces](KB0010010.md)
+* KB0020011 Service Portal 'Good Practices'
+* KB00200XX Delegating roles and administration of the Portal
+    * EPICXXXX Configure your development team for Service Portal development
+* KB00200XX Service Portal configuration and administration
+    * EPICXXXX Build your Service Portal minimum viable product (MVP) with portal, theme, and page
+* KB00200XX Advanced configuration part 1: Service Catalog, Search
+    * EPICXXXX Expand your MVP to include standard components for ITSM
+    * Use the Branding Editor to update your MVP’s look and feel    
     * Configure the /SP Portal with a custom Service Catalog
     * Add an external search source
     * Configure the way search results are displayed
@@ -57,16 +58,20 @@
 * Advanced widget design with Angular Services
     * Create a single page portal
 
-Scoped Applications and Delegated Development
-    * Create a scoped portal project      
-* Advanced widget design with localization
-* Making your widgets supportable: error handling and debugging
-    * Portal revision project: error handlinG
-* Using Service Portal elements in the fulfiller view
-    * Build an admin user management tool 
+## Part IV - Why would you ever do this?
+* KB00200XX Approaches to custom development
 * KB0010017 Portal security concepts
+* EPICXXXX Create a scoped portal project      
+* EPICXXXX Advanced widget design with localization
+* EPICXXXX Making your widgets supportable: error handling and debugging
+* EPICXXXX Portal revision project: error handlinG
+* EPICXXXX Use a Service Portal widget in the fulfiller view
+* EPICXXXX Build an admin user management tool 
+* EPICXXXX Create a word association game
+* EPICXXXX Create a quiz game
+* EPICXXXX Create a company game / training portal
 
-## Part IV - Employee Center and Employee Center Pro     
+## Part V - Employee Center and Employee Center Pro     
 * Employee Center basics
 * Configuration tools and basic oconfiguration
     * Configure the /ESC Portal
@@ -76,6 +81,7 @@ Scoped Applications and Delegated Development
 * Virtual Agent
     * Configure the VA for the help desk
 * Employee Center Pro Content Delivery
+ 
 ** Set up ServiceNow news and events in Content Delivery
     * EPIC0010007 Service Portal project: Everything But the Kitchen Sink
     * EPIC0010008 Service Portal project: Your Own Private Utah
