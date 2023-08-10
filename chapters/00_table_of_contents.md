@@ -3,13 +3,15 @@
 ## [What is this book about?](ch00.md)
 
 ## Part I - Developer Orientation
-* KB0020001 The premise
+* [KB0020001](KB0020001.md) The Premise
 * KB0020002 Service Portal and the Employee Center
 * KB0020003 Kanban
 * KB0020004 SeviceNow 'Good Practices' for developers
+* KB0020005 Setting up your instance
+    EPICXXXX PDI Configuration
 
 ## Part II - Low-Code / No-Code Configuration
-* KB0020010 [ServiceNow's many user interfaces](KB0010010.md)
+* [KB0020010](KB0010010.md) ServiceNow's many user interfaces
 * KB0020011 Service Portal 'Good Practices'
 * KB00200XX Delegating roles and administration of the Portal
     * EPICXXXX Configure your development team for Service Portal development
@@ -98,7 +100,10 @@
 
 
 ## Sprint Reviews
-
+EPICXXXX PDI Configuration
+EPICXXXX Configure your development team for Service Portal development
+EPICXXXX Build your Service Portal minimum viable product (MVP)
+EPICXXXX Expand your MVP to include standard components for ITSM
 
 ## Appendices
 
