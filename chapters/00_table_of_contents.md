@@ -1,32 +1,38 @@
 # Table of Contents
 
-## [What is this book about?](ch00.md)
 
 ## Part I - Developer Orientation
 
 * [KB0020001](KB0020001.md) The Premise
-* KB0020002 Service Portal and the Employee Center
-* KB0020003 Kanban
+* [KB0020002](KB0020002.md) Service Portal and the Employee Center
+* [KB0020003](KB0020003.md) Kanban and Project Management for this Course
 * KB0020004 SeviceNow 'Good Practices' for developers
 * KB0020005 Setting up your instance
-  * EPIC20010 Set up your PDI
+
+**EPIC20010 Set up your PDI**
 
 ## Part II - Low-Code / No-Code Configuration
+
+**EPIC20011 Set up your organization**
 
 * [KB0020010](KB0010010.md) ServiceNow's many user interfaces
 * KB0020011 Service Portal 'Good Practices'
 * KB00200XX Delegating roles and administration of the Portal
+
+**EPIC20012 Build your MVP Portal**
+
 * KB00200XX Service Portal configuration and administration
+
+**EPIC20013 Configure the MVP portal for ITSM**
+
 * KB00200XX Advanced configuration part 1: Service Catalog, Search
 * KB00100XX Advanced configuration part 2: Knowledge, Outage
 * KB00100XX Requests and the Standard Ticket Configuration
 * KB00100XX Page layouts and widget configurations
 * KB0010015 Advanced page and widget configurations
 * KB0010016 Style
-* EPIC20011 Set up a development team
-* EPIC20012 Build your MVP
-* EPIC20013 Configure your MVP for ITSM
-* EPIC20014 Build a Rock Band portal
+
+**EPIC20014 Build a Rock Band Portal**
 
 ## Part III - Tweaking, Building, and Hacking
 
@@ -89,49 +95,45 @@
 | Epic                      | Stories                                  |
 | ------------------------- | ------------------------------------- |
 | EPIC20010 Set up your PDI |                                       |
-|                           | Install plugins                       |
-|                           | Create test users                     |
-|                           | Prime your instance with test records |
-| EPIC20011 Set up a development team | |
-|                           |Create development users
-|                           |Create a Script Include with dev utilities
+|| Install plugins                       |
+|| Create test users                     |
+|| Prime your instance with test records |
+| EPIC20011 Set up your organization | |
+|| Create development users
+|| Create a Script Include with dev utilities
 | EPIC20012 Build your MVP Portal | |
-|                           |Create a Portal Record
-|                           |Create a custom theme
-
-
-  EPIC20013 Configure your MVP for ITSM
-* Use the Branding Editor to update your MVP’s look and feel
-* Configure the /SP Portal with an OOB Service Catalog
-* Configure the /SP Portal with an OOB Knowledge Base
-* My Requests and the Standard Ticket Configuration
-* Configure Search Sources
-* Add an external search source
-* Configure the way search results are displayed
-* Update the way records are viewed on the Ticket page
-  EPIC20014 Build a Rock Band portal
-* Create band members, crew, and roadies
-* Roll your own landing page
-* Customize widgets with widget options
-* Customize widgets with widget instance configuration
-
-EPIC200XX  Custom Widget MVP
-
-* Add a Script Include
-* Build a widget MVC proof of concept using ng-repeat
-* Build a widget MVC proof of concept with a Record Watch
-* Build a widget MVC proof of concept with a JavaScript dependency
-* | Build a widget MVC proof of concept with a debugging parameter         |  |
-  | ---------------------------------------------------------------------- | - |
-  | EPICXXXX Create a scoped portal project                                |  |
-  | EPICXXXX Advanced widget design with localization                      |  |
-  | EPICXXXX Making your widgets supportable: error handling and debugging |  |
-  | EPICXXXX Portal revision project: error handlinG                       |  |
-  | EPICXXXX Use a Service Portal widget in the fulfiller view             |  |
-  | EPICXXXX Build an admin user management tool                           |  |
-  | EPICXXXX Create a word association game                                |  |
-  | EPICXXXX Create a quiz game                                            |  |
-  | EPICXXXX Create a company game / training portal                       |  |
+|| Create a Portal Record
+|| Create a custom theme
+|| Script the creation of the MVP portal
+| EPIC20013 Configure the MVP portal for ITSM | |
+|| Use the Branding Editor to update your MVP’s look and feel                       |
+|| Configure the /SP Portal with an OOB Service Catalog                 |
+|| Configure the /SP Portal with an OOB Knowledge Base |
+|| My Requests and the Standard Ticket Configuration
+|| Configure Search Sources
+|| Add an external search source
+|| Configure the way search results are displayed
+|| Update the way records are viewed on the Ticket page
+| EPIC20014 Build a Rock Band portal
+|| Create band members, crew, and roadies
+|| Roll your own landing page
+|| Customize widgets with widget options
+|| Customize widgets with widget instance configuration
+| EPIC200XX  Custom Widget MVP
+|| Add a Script Include
+||  Build a widget MVC proof of concept using ng-repeat
+|| Build a widget MVC proof of concept with a Record Watch
+|| Build a widget MVC proof of concept with a JavaScript dependency
+||  Build a widget MVC proof of concept with a debugging parameter
+| EPICXXXX Create a scoped portal project                                |  |
+| EPICXXXX Advanced widget design with localization                      |  |
+| EPICXXXX Making your widgets supportable: error handling and debugging |  |
+| EPICXXXX Portal revision project: error handlinG                       |  |
+| EPICXXXX Use a Service Portal widget in the fulfiller view             |  |
+| EPICXXXX Build an admin user management tool                           |  |
+| EPICXXXX Create a word association game                                |  |
+| EPICXXXX Create a quiz game                                            |  |
+| EPICXXXX Create a company game / training portal                       |  |
 
 ## Appendices
 
