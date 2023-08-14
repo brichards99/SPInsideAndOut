@@ -1,0 +1,44 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "Brian Richards"
+      },
+      "creation_time": "2023-08-11T07:58:30.812Z",
+      "id": "3",
+      "references": [],
+      "title": "Create template for sprint reviews"
+    },
+    {
+      "assignedTo": {
+        "name": "Brian Richards"
+      },
+      "creation_time": "2023-08-11T07:59:04.393Z",
+      "id": "4",
+      "references": [],
+      "title": "Finalize content outline"
+    }
+  ],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "Brian Richards"
+      },
+      "creation_time": "2023-08-11T07:57:30.387Z",
+      "id": "1",
+      "references": [],
+      "title": "Complete KB articles for intro section"
+    },
+    {
+      "assignedTo": {
+        "name": "Brian Richards"
+      },
+      "creation_time": "2023-08-11T07:58:12.609Z",
+      "id": "2",
+      "references": [],
+      "title": "Create template for epics"
+    }
+  ],
+  "testing": [],
+  "done": []
+}
