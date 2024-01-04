@@ -1,12 +1,18 @@
 # Table of Contents
 
+Flow of Content:
+
+Orientation > Setup > 
+MVP  > Custom 
+> Mini Projects  > Scoped Custom  > Web App 
+
 
 ## Part I - Developer Orientation
 
 * [KB0020001](KB0020001.md) The Premise
 * [KB0020002](KB0020002.md) Service Portal and the Employee Center
 * [KB0020003](KB0020003.md) Kanban and Project Management for this Course
-* KB0020004 SeviceNow 'Good Practices' for developers
+* [KB0020004](KB0020004.md) ServiceNow 'Good Practices' for developers
 * KB0020005 Setting up your instance
 
 **EPIC20010 Set up your PDI**
@@ -38,22 +44,34 @@
 
 * KB0010022 Thinking about widget development
 * KB0010023 Built-in development tools
-* Basic widget development
+* KB0010024 Widget Development Toolkit Part 1  
+  * Basic widget development
+  * Design Thinking: Examining 3 Widgets (Icon Link, Simple List, Form)
+* EPICXXXX Modify 3 OOB Widgets
+  * Modify the Icon Link Widget
+  * Modify the Simple List Widget
+  * Modify the Form Widget
+* EPICXXXX Create a simple widget toolbox 
+  * Create Your Own Icon Link Widget
+  * Create Your Own  Simple List Widget
+  * Create Your Own  Form Widget 
   * Create a project landing page and widget
-* KB0010024 Widget Development Toolkit Part 1
-* KB0010017 Time out for Portal style
+* KB0010017 Time out for Portal style and Layout
   * Add a custom font to the /demo portal
   * Build a widget MVC proof of concept using SASS
   * Create a dark mode /SPDark Portal
   * Create role-aware color coding
 * KB0010026 Widget Development Toolkit Part 2
+* KB0010027 Bootstrap and Service Portal
 * The widget toolbox part 1
 * The widget toolbox part 2
   * Create your own Simple List widget
   * Create an approvers list
   * Create a customer Incident list with modal popup
   * Create an enhanced Icon Link widget
+* KB000000 Make a widget reusable - Options and Dynamicism
 * Advanced widget design with Angular Services
+* KB0010030 Angular Providers
   * Create a single page portal
 
 ## Part IV - Why would you ever do this?
