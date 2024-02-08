@@ -19,17 +19,17 @@ Where to find supporting materials
 * [KB0020004](KB0020004.md) ServiceNow 'Good Practices' for developers
 * KB0020005 Setting up your instance
 
-**EPIC20010 Set up your PDI**
+**Lab 1 Set up your PDI**
 
 ## Part II - Low-Code / No-Code Configuration
-
-**EPIC20011 Set up your organization**
 
 * [KB0020010](KB0010010.md) ServiceNow's many user interfaces
 * KB0020011 Service Portal 'Good Practices'
 * KB00200XX Delegating roles and administration of the Portal
 
-**EPIC20012 Build your MVP Portal**
+**Lab 2 Set up your organization**
+**Lab 3 Build background services**
+**Lab 3 Build your MVP Portal**
 
 * KB00200XX Service Portal configuration and administration
 
