@@ -6,6 +6,10 @@ Orientation > Setup >
 MVP  > Custom 
 > Mini Projects  > Scoped Custom  > Web App 
 
+Service Portal's position within the ServiceNow framework
+Technologies to be included and sources of information to support your learnign
+General scenario and course approach
+Where to find supporting materials
 
 ## Part I - Developer Orientation
 
