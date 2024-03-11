@@ -47,14 +47,18 @@ MVP  > Custom
 * KB0010024 Widget Development Toolkit Part 1  
   * Basic widget development
   * Design Thinking: Examining 3 Widgets (Icon Link, Simple List, Form)
-* EPICXXXX Modify 3 OOB Widgets
+
+EPICXXXX Modify 3 OOB Widgets
   * Modify the Icon Link Widget
   * Modify the Simple List Widget
   * Modify the Form Widget
-* EPICXXXX Create a simple widget toolbox 
+
+EPICXXXX Create a simple widget toolbox 
   * Create Your Own Icon Link Widget
-  * Create Your Own  Simple List Widget
-  * Create Your Own  Form Widget 
+  * Create Your Own Simple List Widget
+  * Create Your Own Form Widget 
+
+EPICXXXX Create a scoped Service Portal clone
   * Create a project landing page and widget
 * KB0010017 Time out for Portal style and Layout
   * Add a custom font to the /demo portal
@@ -72,16 +76,16 @@ MVP  > Custom
 * KB000000 Make a widget reusable - Options and Dynamicism
 * Advanced widget design with Angular Services
 * KB0010030 Angular Providers
-  * Create a single page portal
+
+EPICXXXX Create a single page portal
 
 ## Part IV - Why would you ever do this?
 
 * KB00200XX Approaches to custom development
 * KB0010017 Portal security concepts
-* EPICXXXX Create a scoped portal project
 * EPICXXXX Advanced widget design with localization
 * EPICXXXX Making your widgets supportable: error handling and debugging
-* EPICXXXX Portal revision project: error handlinG
+* EPICXXXX Portal revision project: error handling
 * EPICXXXX Use a Service Portal widget in the fulfiller view
 * EPICXXXX Build an admin user management tool
 * EPICXXXX Create a word association game
