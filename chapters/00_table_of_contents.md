@@ -19,21 +19,25 @@ Where to find supporting materials
 * [KB0020004](KB0020004.md) ServiceNow 'Good Practices' for developers
 * KB0020005 Setting up your instance
 
+**EPIC20012 Core Configuration**
 **Lab 1 Set up your PDI**
+**Lab 2 Set up your organization**
+**Lab 3 Build background services**
 
 ## Part II - Low-Code / No-Code Configuration
 
 * [KB0020010](KB0010010.md) ServiceNow's many user interfaces
 * KB0020011 Service Portal 'Good Practices'
 * KB00200XX Delegating roles and administration of the Portal
-
-**Lab 2 Set up your organization**
-**Lab 3 Build background services**
-**Lab 3 Build your MVP Portal**
-
 * KB00200XX Service Portal configuration and administration
 
 **EPIC20013 Configure the MVP portal for ITSM**
+**Lab 4 Build your MVP Portal**
+**Lab 5 Configure the Service Catalog**
+**Lab 5 Configure the Knowledge Base**
+**Lab 6 Style the MVP portal**
+**Lab 7 Configure an IT worker landing page**
+**Lab 8 Configure the service status page**
 
 * KB00200XX Advanced configuration part 1: Service Catalog, Search
 * KB00100XX Advanced configuration part 2: Knowledge, Outage
@@ -43,6 +47,7 @@ Where to find supporting materials
 * KB0010016 Style
 
 **EPIC20014 Build a Rock Band Portal**
+**Lab 9 Set up your band**
 
 ## Part III - Tweaking, Building, and Hacking
 
@@ -52,15 +57,17 @@ Where to find supporting materials
   * Basic widget development
   * Design Thinking: Examining 3 Widgets (Icon Link, Simple List, Form)
 
-EPICXXXX Modify 3 OOB Widgets
+EPICXXXX Your Widget Kit Phase 1: Modify 3 OOB Widgets
   * Modify the Icon Link Widget
   * Modify the Simple List Widget
   * Modify the Form Widget
 
-EPICXXXX Create a simple widget toolbox 
-  * Create Your Own Icon Link Widget
-  * Create Your Own Simple List Widget
-  * Create Your Own Form Widget 
+EPICXXXX Your Widget Kit Phase 2: Create a simple widget toolbox 
+  * Create Your Own Icon Link Widget: Current Weather
+  * Create Your Own Simple List Widget: Service Outages
+  * Create Your Own Simple List Widget: Actionable Approvals
+  * Create Your Own Simple List Widget: Incidents with modal popups
+  * Create Your Own Form Widget: Virtual Machine calculator 
 
 EPICXXXX Create a scoped Service Portal clone
   * Create a project landing page and widget
@@ -104,6 +111,9 @@ EPICXXXX Create a single page portal
 * Employee Center To-Dos page configuration
   * Add modules to the EmpLoyee Center
   * Customize
+* Advanced Portal Navigation
+  * Taxonomy Topics
+  * Menus
 * Virtual Agent
   * Configure the VA for the help desk
 * Employee Center Pro Content Delivery
