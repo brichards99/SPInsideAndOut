@@ -7,7 +7,7 @@ MVP  > Custom
 > Mini Projects  > Scoped Custom  > Web App 
 
 Service Portal's position within the ServiceNow framework
-Technologies to be included and sources of information to support your learnign
+Technologies to be included and sources of information to support your learning
 General scenario and course approach
 Where to find supporting materials
 
@@ -17,59 +17,78 @@ Where to find supporting materials
 * [KB0020002](KB0020002.md) Service Portal and the Employee Center
 * [KB0020003](KB0020003.md) Kanban and Project Management for this Course
 * [KB0020004](KB0020004.md) ServiceNow 'Good Practices' for developers
-* KB0020005 Setting up your instance
 
 **EPIC20012 Core Configuration**
+* KB0020005 Your own private ServiceNow
 **Lab 1 Set up your PDI**
 **Lab 2 Set up your organization**
 **Lab 3 Build background services**
 
 ## Part II - Low-Code / No-Code Configuration
 
+**EPIC20013 Configure the MVP portal for ITSM**
+
 * [KB0020010](KB0010010.md) ServiceNow's many user interfaces
 * KB0020011 Service Portal 'Good Practices'
-* KB00200XX Delegating roles and administration of the Portal
 * KB00200XX Service Portal configuration and administration
 
-**EPIC20013 Configure the MVP portal for ITSM**
 **Lab 4 Build your MVP Portal**
 **Lab 5 Configure the Service Catalog**
 **Lab 5 Configure the Knowledge Base**
 **Lab 6 Style the MVP portal**
-**Lab 7 Configure an IT worker landing page**
-**Lab 8 Configure the service status page**
+**Lab 7 Build an IT worker landing page**
+**Lab 8 Build a custom service status page**
+**Lab 9 Validate your portal by testing workflows and behavior**
+
+**EPIC20014 Build a Rock Band Portal**
 
 * KB00200XX Advanced configuration part 1: Service Catalog, Search
 * KB00100XX Advanced configuration part 2: Knowledge, Outage
 * KB00100XX Requests and the Standard Ticket Configuration
 * KB00100XX Page layouts and widget configurations
 * KB0010015 Advanced page and widget configurations
-* KB0010016 Style
+* KB0010016 Stylesheets and images
 
-**EPIC20014 Build a Rock Band Portal**
 **Lab 9 Set up your band**
+**Lab 10 Create a concert events table**
+**Lab 11 Configure a catalog of services for the band**
+**Lab 12 Build the portal record and pages**
+**Lab 13 Create a portal theme**
+**Lab 14 Build the band's knowledge base**
+**Lab 15 Enable rock-focused search**
+**Lab 16 Validate your portal by testing workflows and behavior**
 
 ## Part III - Tweaking, Building, and Hacking
 
+**EPIC20014 Your Widget Toolkit**
+
 * KB0010022 Thinking about widget development
 * KB0010023 Built-in development tools
-* KB0010024 Widget Development Toolkit Part 1  
-  * Basic widget development
-  * Design Thinking: Examining 3 Widgets (Icon Link, Simple List, Form)
+* KB0010024 Basic widget design
+* KB0010025 Examining 3 Widgets (Icon Link, Simple List, Form)
+* KB0010026 Modifying out of the box widgets
 
-EPICXXXX Your Widget Kit Phase 1: Modify 3 OOB Widgets
-  * Modify the Icon Link Widget
-  * Modify the Simple List Widget
-  * Modify the Form Widget
+**Lab 16 Modify the Icon Link Widget**
+**Lab 17 Modify the Simple List Widget**
+**Lab 18  Modify the Form Widget**
 
-EPICXXXX Your Widget Kit Phase 2: Create a simple widget toolbox 
-  * Create Your Own Icon Link Widget: Current Weather
-  * Create Your Own Simple List Widget: Service Outages
-  * Create Your Own Simple List Widget: Actionable Approvals
-  * Create Your Own Simple List Widget: Incidents with modal popups
-  * Create Your Own Form Widget: Virtual Machine calculator 
+* KB0010027 Custom widget development considerations
 
-EPICXXXX Create a scoped Service Portal clone
+**Lab 19  Create Your Own Icon Link Widget: with enhanced style**
+**Lab 20  Create Your Own Simple List Widget: Service Outages**
+**Lab 21  Create Your Own Simple List Widget: Actionable Approvals**
+**Lab 22  Create Your Own Simple List Widget: Incidents with modal popups**
+**Lab 23  Create Your Own Form Widget: Virtual Machine calculator**
+**Lab 25  Create Your Own Icon Link Widget: Current Weather**
+
+* KB00100XX Application Scope and the Service Portal  
+* KB00100XX Service Portal architecture deep dive  
+
+**EPICXXXX Create a scoped Service Portal clone**
+
+* KB000000 Make a widget reusable - Options and Dynamicism
+* KB000000 Advanced widget design with Angular Services
+
   * Create a project landing page and widget
 * KB0010017 Time out for Portal style and Layout
   * Add a custom font to the /demo portal
@@ -78,15 +97,12 @@ EPICXXXX Create a scoped Service Portal clone
   * Create role-aware color coding
 * KB0010026 Widget Development Toolkit Part 2
 * KB0010027 Bootstrap and Service Portal
-* The widget toolbox part 1
-* The widget toolbox part 2
-  * Create your own Simple List widget
-  * Create an approvers list
+
+
   * Create a customer Incident list with modal popup
-  * Create an enhanced Icon Link widget
-* KB000000 Make a widget reusable - Options and Dynamicism
-* Advanced widget design with Angular Services
-* KB0010030 Angular Providers
+
+
+
 
 EPICXXXX Create a single page portal
 
@@ -105,15 +121,17 @@ EPICXXXX Create a single page portal
 
 ## Part V - Employee Center and Employee Center Pro
 
-* Employee Center basics
-* Configuration tools and basic oconfiguration
-  * Configure the /ESC Portal
-* Employee Center To-Dos page configuration
-  * Add modules to the EmpLoyee Center
-  * Customize
-* Advanced Portal Navigation
-  * Taxonomy Topics
-  * Menus
+* KB00100XX Employee Center basics
+* KB00100XX Configuration tools and basic configuration
+* KB00100XX Employee Center To-Dos page configuration
+* KB00100XX Add modules to the EmpLoyee Center
+* KB00100XX Advanced Portal Navigation
+* KB00100XX Taxonomy Topics
+* KB00100XX Menus
+
+EPICXXXX Configure a branded /ESC Portal
+
+
 * Virtual Agent
   * Configure the VA for the help desk
 * Employee Center Pro Content Delivery
@@ -125,6 +143,12 @@ EPICXXXX Create a single page portal
     * EPIC0010011 Developer's Master Portal
 
 3. Mini Project: ChatGPT inside of Virtual Agent
+
+Agile planning portal
+Learning management portal
+Tailored knowledge portal
+
+
 
 ## Sprint Reviews
 
