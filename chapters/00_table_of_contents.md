@@ -1,11 +1,5 @@
 # Table of Contents
 
-Flow of Content:
-
-Orientation > Setup > 
-MVP  > Custom 
-> Mini Projects  > Scoped Custom  > Web App 
-
 Service Portal's position within the ServiceNow framework
 Technologies to be included and sources of information to support your learning
 General scenario and course approach
@@ -23,6 +17,8 @@ Where to find supporting materials
 **Lab 1 Set up your PDI**
 **Lab 2 Set up your organization**
 **Lab 3 Build background services**
+**Bonus Lab: Set up a Visual Task Board to track your work**
+**Bonus Lab: Use an integration to create demo accounts and groups**
 
 ## Part II - Low-Code / No-Code Configuration
 
